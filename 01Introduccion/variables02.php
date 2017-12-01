@@ -19,15 +19,15 @@ echo"<br><br>";
 
 #variable de tipo arreglo
 $colores = array("azul","rojo");
-echo "esto es un arreglo $colores[0]"
-/*
+echo "esto es un arreglo $colores[0]";
+
 #variable arreglo con propiedades
 $verduras = array("verdura1"=>"lechuga", "verdura2"=>"cebolla");
-echo "esto es una variable $verduras[verdura1]"; 
+echo "esto es una variable: $verduras[verdura1]"; 
 echo"<br><br>";
 
 $frutas =(object)["fruta1"=>"pera", "fruta2"=>"manzana"];
 echo "esta es una variable de frutas $frutas->fruta1";
-*/
+
 
 ?> 
